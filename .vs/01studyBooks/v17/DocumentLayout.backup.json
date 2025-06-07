@@ -1,0 +1,504 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\managebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\managebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\changepwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\changepwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\managebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\managebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\autoclosingmessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\autoclosingmessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\changepwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\changepwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\clobalfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\clobalfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\autoclosingmessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\autoclosingmessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|01studyBooks||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|solutionrelative:01studybooks\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB87E48-FFF2-4480-B91E-0766CDB74D0F}|01studyBooks\\01studyBooks.csproj|d:\\project\\aaa-jiqi\\project\\winfom-project\\01studybooks\\01studybooks\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 135,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Borrow.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\Borrow.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Borrow.cs",
+              "RelativeToolTip": "01studyBooks\\Borrow.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAIA0wG0AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:53:58.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "manageBooks.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\manageBooks.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\manageBooks.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\manageBooks.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "01studyBooks\\manageBooks.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T07:02:23.409Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormAdmin.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\FormAdmin.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\FormAdmin.cs",
+              "RelativeToolTip": "01studyBooks\\FormAdmin.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:08:54.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dao.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Dao.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\Dao.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Dao.cs",
+              "RelativeToolTip": "01studyBooks\\Dao.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAawFQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:05:22.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Borrow.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Borrow.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\Borrow.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Borrow.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "01studyBooks\\Borrow.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:45:00.888Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Index.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\Index.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Index.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "01studyBooks\\Index.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:29:53.121Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormRegister.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\FormRegister.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\FormRegister.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\FormRegister.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "01studyBooks\\FormRegister.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:12:29.139Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAdmin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\FormAdmin.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\FormAdmin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "01studyBooks\\FormAdmin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:21:42.232Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChangePwd.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\ChangePwd.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\ChangePwd.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\ChangePwd.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "01studyBooks\\ChangePwd.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:11:08.014Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "manageBooks.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\manageBooks.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\manageBooks.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\manageBooks.cs",
+              "RelativeToolTip": "01studyBooks\\manageBooks.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAArwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:17:45.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\UserForm.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\UserForm.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\UserForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "01studyBooks\\UserForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:32:35.404Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoClosingMessageBox.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\AutoClosingMessageBox.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\AutoClosingMessageBox.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\AutoClosingMessageBox.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "01studyBooks\\AutoClosingMessageBox.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T03:52:50.285Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\UserForm.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\UserForm.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\UserForm.cs",
+              "RelativeToolTip": "01studyBooks\\UserForm.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:23:31.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Request.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Request.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\Request.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Request.cs",
+              "RelativeToolTip": "01studyBooks\\Request.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswC8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:08:25.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Form1.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\Form1.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Form1.cs",
+              "RelativeToolTip": "01studyBooks\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:34:53.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Form1.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\Form1.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "01studyBooks\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:23:38.239Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Program.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\Program.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Program.cs",
+              "RelativeToolTip": "01studyBooks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:25:33.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\packages.config",
+              "RelativeDocumentMoniker": "01studyBooks\\packages.config",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\packages.config",
+              "RelativeToolTip": "01studyBooks\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-06T07:50:27.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\App.config",
+              "RelativeDocumentMoniker": "01studyBooks\\App.config",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\App.config",
+              "RelativeToolTip": "01studyBooks\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-05T09:11:14.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddBook.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\AddBook.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\AddBook.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\AddBook.cs",
+              "RelativeToolTip": "01studyBooks\\AddBook.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAmwFcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:53:54.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChangePwd.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\ChangePwd.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\ChangePwd.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\ChangePwd.cs",
+              "RelativeToolTip": "01studyBooks\\ChangePwd.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wC0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:15:32.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddBook.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\AddBook.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\AddBook.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\AddBook.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "01studyBooks\\AddBook.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:51:24.516Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClobalFunc.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\ClobalFunc.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\ClobalFunc.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\ClobalFunc.cs",
+              "RelativeToolTip": "01studyBooks\\ClobalFunc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:05:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormRegister.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\FormRegister.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\FormRegister.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\FormRegister.cs",
+              "RelativeToolTip": "01studyBooks\\FormRegister.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:42:45.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AutoClosingMessageBox.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\AutoClosingMessageBox.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\AutoClosingMessageBox.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\AutoClosingMessageBox.cs",
+              "RelativeToolTip": "01studyBooks\\AutoClosingMessageBox.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:31:34.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormAdmin.Designer.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\FormAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\FormAdmin.Designer.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\FormAdmin.Designer.cs",
+              "RelativeToolTip": "01studyBooks\\FormAdmin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:37:06.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "01studyBooks",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\01studyBooks.csproj",
+              "RelativeDocumentMoniker": "01studyBooks\\01studyBooks.csproj",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\01studyBooks.csproj",
+              "RelativeToolTip": "01studyBooks\\01studyBooks.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-05T03:26:07.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Index.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\Index.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Index.cs",
+              "RelativeToolTip": "01studyBooks\\Index.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:37:13.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "01studyBooks\\Form1.Designer.cs",
+              "ToolTip": "D:\\project\\AAA-jiqi\\Project\\winfom-Project\\01studyBooks\\01studyBooks\\Form1.Designer.cs",
+              "RelativeToolTip": "01studyBooks\\Form1.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:30:19.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
