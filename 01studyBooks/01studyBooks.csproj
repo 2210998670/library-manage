@@ -145,6 +145,7 @@
     <Compile Include="Index.Designer.cs">
       <DependentUpon>Index.cs</DependentUpon>
     </Compile>
+    <Compile Include="InterFaceRequest.cs" />
     <Compile Include="manageBooks.cs">
       <SubType>Form</SubType>
     </Compile>

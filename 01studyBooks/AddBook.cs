@@ -25,8 +25,6 @@ namespace _01studyBooks
         {
             InitializeComponent();   // 必须在最前面执行！
             this.data = data;
-
-
             bookID.Text = data[0]?.ToString();
             Bname.Text = data[1]?.ToString();
             Author.Text = data[2]?.ToString();

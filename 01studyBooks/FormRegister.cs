@@ -62,7 +62,6 @@ namespace _01studyBooks
             string password = Password.Text;
             string enterPassword = EnterPassword.Text;
             string data = $"'{id}','{name}','{password}','{Sex}','{idCard}','{tel}','0'";
-
             string[] msgList = new string[] { "注册成功","注册失败"};
 
             Request.AddApi(msgList, data, "T_User", (success, msg) =>
